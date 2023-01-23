@@ -3,7 +3,7 @@
 
 FIDUS Styrgrupp består för närvarande av
 
-- Annika Braddon, Skolverket
+- Vakant, Skolverket
 - Leif Johansson, Sunet
 - Anna Kelly, Internetstiftelsen
 
