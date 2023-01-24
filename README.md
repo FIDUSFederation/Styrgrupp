@@ -1,4 +1,4 @@
-# Styrgrupp
+# FIDUS Styrgrupp
 ## Sammansättning
 
 FIDUS Styrgrupp består för närvarande av
