@@ -29,11 +29,11 @@ Mötet hölls över mail och beslutsunderlag behandlades av federationsrådet i 
 
 Styrgruppen för Fidus föreslås besluta
 
-att Fidus i sin egenskap av interfederation utökas med funktioner för autentisering med stöd av federerad TLS (FedTLS) för autentisering till provisioneringstjänsten för digitala nationella prov genom smärre korrigering av ramverket.
+**att** Fidus i sin egenskap av interfederation utökas med funktioner för autentisering med stöd av federerad TLS (FedTLS) för autentisering till provisioneringstjänsten för digitala nationella prov genom smärre korrigering av ramverket.
 
-att anslutningar till provisioneringstjänsten för digitala nationella prov som inte använder federerad TLS, istället ska använda kvalificerade certifikat för webbserverautentisering (QWAC) i enlighet med eIDAS-förordningen<sup>1</sup>. Certifikaten behöver vara försedda med attribut för klientautentisering och innehålla organisationsnummer.
+**att** anslutningar till provisioneringstjänsten för digitala nationella prov som inte använder federerad TLS, istället ska använda kvalificerade certifikat för webbserverautentisering (QWAC) i enlighet med eIDAS-förordningen<sup>1</sup>. Certifikaten behöver vara försedda med attribut för klientautentisering och innehålla organisationsnummer.
 
-att för mTLS, under en övergångsperiod, även tillåta användningen av historiskt etablerade funktionscertifikat som utfärdats före 2024-07-01 från följande utfärdare:
+**att** för mTLS, under en övergångsperiod, även tillåta användningen av historiskt etablerade funktionscertifikat som utfärdats före 2024-07-01 från följande utfärdare:
 
 -   SITHS e-id funktionscertifikat (Inera)
 -   E-identitet för offentlig sektor – EFOS (Försäkringskassan)
@@ -51,13 +51,13 @@ Styrgruppen godkände beslutspunkten.
 
 Styrgruppen föreslås besluta
 
-att förändra kravet på federationsoperatörers informationssäkerhetsarbete så att ISO 27000-certifiering inte krävs.
+**att** förändra kravet på federationsoperatörers informationssäkerhetsarbete så att ISO 27000-certifiering inte krävs.
 
-att införa en skyldighet för federationsoperatörer, som inte är statliga myndigheter, att styrka att de uppfyller informationssäkerhetskraven genom oberoende revision eller certifiering.
+**att** införa en skyldighet för federationsoperatörer, som inte är statliga myndigheter, att styrka att de uppfyller informationssäkerhetskraven genom oberoende revision eller certifiering.
 
-att införa ett krav på informationssäkerhetsarbete hos organisationer ingående i federationsoperatörens federation.
+**att** införa ett krav på informationssäkerhetsarbete hos organisationer ingående i federationsoperatörens federation.
 
-att införa en skyldighet för federationsoperatörer att tillhandahålla dokumentation som styrker att de ställer krav på informationssäkerhetsarbete för organisationer som ingår federationsoperatörens federation.
+**att** införa en skyldighet för federationsoperatörer att tillhandahålla dokumentation som styrker att de ställer krav på informationssäkerhetsarbete för organisationer som ingår federationsoperatörens federation.
 
 #### Beslut
 
