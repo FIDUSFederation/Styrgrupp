@@ -43,7 +43,7 @@ Till detta möte har tre tjänster begärt att bli publicerade i Fidus.
 
 ### Provtjänsten för Nationella Prov
 
-#### Statens Skolverk
+#### Tjänstens ägare
 
 Statens Skolverk
 
@@ -56,6 +56,8 @@ Denna provtjänst innefattar:
 -   Provplattformen: upphandlad och vidareutvecklas utifrån Skolverkets krav.
 -   System för användarprovisionering och åtkomst som utvecklas av Skolverket.
 -   Tjänstens målgrupp relaterat till FIDUS.
+
+#### Tjänstens målgrupp relaterat till FIDUS
 
 Målgrupper som tjänsten vänder sig till och som får åtkomst via FIDUS är:
 
