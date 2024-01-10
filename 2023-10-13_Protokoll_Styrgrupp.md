@@ -4,7 +4,7 @@ Protokoll 2023-10-13
 
 ## Välkomna
 
-### Deltagande
+### Deltagare
 
 -   Anna Kelley, Internetstiftelsen
 -   Leif Johansson, Vetenskapsrådet
