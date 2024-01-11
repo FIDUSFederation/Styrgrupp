@@ -43,7 +43,7 @@ Styrgruppen för Fidus föreslås besluta
 
 #### Beslutsunderlag
 
--   [Beslutsunderlag om ändringar avseende informationssäkerhetskrav i tillitsramverket för Fidus](bilagor/Beslutsunderlag_FIDUS-ramverk_informationssakerhet_2023-12-08.pdf)
+-   [Beslutsunderlag om komplettering av tillits-ramverket för Fidus avseende ömsesidig TLS](bilagor/Beslutsunderlag_om_komplettering_av_tillitsramverket_for_Fidus_avseende_omsesidig_TLS_2023-12-08.pdf)
 
 #### Beslut
 
@@ -65,7 +65,7 @@ Styrgruppen föreslås besluta
 
 #### Beslutsunderlag
 
--   [Beslutsunderlag om komplettering av tillits-ramverket för Fidus avseende ömsesidig TLS](bilagor/Beslutsunderlag_om_komplettering_av_tillitsramverket_for_Fidus_avseende_omsesidig_TLS_2023-12-08.pdf)
+-   [Beslutsunderlag om ändringar avseende informationssäkerhetskrav i tillitsramverket för Fidus](bilagor/Beslutsunderlag_FIDUS-ramverk_informationssakerhet_2023-12-08.pdf)
 
 #### Beslut
 
