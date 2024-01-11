@@ -41,6 +41,10 @@ Styrgruppen för Fidus föreslås besluta
 
 <sup>1</sup> Europaparlamentets och rådets förordning (EU) nr 910/2014 av den 23 juli 2014 om elektronisk identifiering och betrodda tjänster för elektroniska transaktioner på den inre marknaden och om upphävande av direktiv 1999/93/EG.
 
+#### Beslutsunderlag
+
+-   [Beslutsunderlag om ändringar avseende informationssäkerhetskrav i tillitsramverket för Fidus](bilagor/Beslutsunderlag_FIDUS-ramverk_informationssakerhet_2023-12-08.pdf)
+
 #### Beslut
 
 Styrgruppen godkände beslutspunkten.
@@ -58,6 +62,10 @@ Styrgruppen föreslås besluta
 **att** införa ett krav på informationssäkerhetsarbete hos organisationer ingående i federationsoperatörens federation.
 
 **att** införa en skyldighet för federationsoperatörer att tillhandahålla dokumentation som styrker att de ställer krav på informationssäkerhetsarbete för organisationer som ingår federationsoperatörens federation.
+
+#### Beslutsunderlag
+
+-   [Beslutsunderlag om komplettering av tillits-ramverket för Fidus avseende ömsesidig TLS](bilagor/Beslutsunderlag_om_komplettering_av_tillitsramverket_for_Fidus_avseende_omsesidig_TLS_2023-12-08.pdf)
 
 #### Beslut
 
