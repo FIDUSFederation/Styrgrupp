@@ -33,7 +33,7 @@ Fidus federations ramverk definierar att federationer som uppföljer nedanståen
 
 Till detta möte har en federation begärt att få ansluta sin federation till Fidus.
 
-###Skolon
+### Skolon
 
 Skolon har ansökt om att få ansluta sin federation till FIDUS ramverk och har varit i korrespondens med federationsrådet. Nedan är rekommendation från federationsrådets möte den 12e april 2024. Övrig information och dokumentation om anslutningen finns bifogat agendan.
 
